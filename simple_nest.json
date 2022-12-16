@@ -1,0 +1,16 @@
+{
+    "emp_id": "001",
+    "emp_name": "Rammurthy",
+    "address": {
+        "phone": [
+            {
+                "number": 8234234234,
+                "type": "personal"
+            },
+            {
+                "number": 8234234322,
+                "type": "home"
+            }
+        ]
+    }
+}

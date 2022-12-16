@@ -1,0 +1,26 @@
+{
+    "emp_id": "001",
+    "emp_name": "Rammurthy",
+    "address": {
+        "phone": [
+            {
+                "number": 8234234234,
+                "type": "personal"
+            },
+            {
+                "number": 8234234322,
+                "type": "home"
+            }
+        ]
+    },
+    "work_exp": [
+        {
+            "company_name": "cognizant",
+            "work_exp": 2
+        },
+        {
+            "company_name": "accenture",
+            "work_exp": 2
+        }
+    ]
+}
